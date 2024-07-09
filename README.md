@@ -34,8 +34,8 @@ This project is an Android application that emulates Twitter, allowing users to 
 Clone the project from GitHub to your local machine.
 
 ```bash
-git clone https://github.com/your-username/twitter-clone-android.git
-cd twitter-clone-android
+git clone https://github.com/kanak27/twitter-clone.git
+cd twitter-clone
 ```
 
 #### 2. Open the Project in Android Studio
